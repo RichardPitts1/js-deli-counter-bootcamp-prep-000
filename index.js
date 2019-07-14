@@ -1,6 +1,31 @@
 var katzDeliLine = []
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function currentLine(katzDeliLine) {
   if (katzDeliLine === o) {
     "The line is currently empty."
