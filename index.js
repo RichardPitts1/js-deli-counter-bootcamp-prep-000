@@ -39,6 +39,7 @@ function giveANumber(katzDeliLine) {
 var i = 0; 
 i++;
 katzDeliLine.push[i]
+}
 
 
   // var newArray = [];
@@ -46,7 +47,7 @@ katzDeliLine.push[i]
   // for (i = 0; i < katzDeliLine.length; i++) {
   //   newArray.push[i + 1]
   // }
-}
+
 
 
 
