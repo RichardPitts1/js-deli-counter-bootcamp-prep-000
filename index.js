@@ -19,14 +19,14 @@ function nowServing(katzDeliLine) {
   }
 }
 
-var lineWithNames
+var lineWithNames = []
 function currentLine(katzDeliLine) {
   let i = 0;
     while (i < katzDeliLine.length) {
     lineWithNames.push(` `+[i+1]+`. `  + katzDeli[i])
     i++;
   }
-}
+
   if (katzDeli.length === 0) {
     return "The line is currently empty.";
   } else {
