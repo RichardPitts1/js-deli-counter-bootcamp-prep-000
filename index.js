@@ -35,11 +35,13 @@ function currentLine(katzDeliLine) {
 //at the end array = [1,2,3,4,....]
 
 function giveANumber(katzDeliLine) {
-  var newArray = [];
-  var i = 0
-  for (i = 0; i < katzDeliLine.length; i++) {
-    newArray.push[i + 1]
-  }
+  
+
+  // var newArray = [];
+  // var i = 0
+  // for (i = 0; i < katzDeliLine.length; i++) {
+  //   newArray.push[i + 1]
+  // }
 }
 
 
