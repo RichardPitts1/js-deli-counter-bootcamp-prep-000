@@ -29,6 +29,13 @@ function currentLine(katzDeliLine) {
   }
 }
 
+function giveANumber(katzDeliLine) {
+  var newArray = [];
+  for (i = 0; i < katzDeliLine.length; i++) {
+    newArray.push[i + 1]
+  }
+}
+
 
 
 
